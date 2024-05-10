@@ -2,6 +2,9 @@
 
 This project focuses on developing an application to enhance a company's internal efficiency and cost-effectiveness through advanced AI algorithms, automating routine tasks for real-time, precise data analysis. It aims to tailor solutions to the company's unique needs, improving decision-making and productivity significantly. The application will employ machine learning techniques like clustering for pattern identification and random forest for accurate predictions, facilitating a more in-depth, customized analysis to further optimize internal processes.
 
+Graphical results can be viewed in the file `Retail_Analysis.html`.
+
+
 ## Customer Segmentation
 
 - **Objective:** Delve deep into customer ordering behavior to identify distinct segments.
@@ -14,4 +17,4 @@ This project focuses on developing an application to enhance a company's interna
 - **Goal:** Optimize stock levels. Reduce waste. Ensure availability of popular items.
 
 
-Graphical results can be viewed in the file `Retail_Analysis.html`.
+
